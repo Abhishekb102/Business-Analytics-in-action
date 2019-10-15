@@ -1,2 +1,2 @@
 # Business-Analytics-in-action
-My first class
+In today world business analytics plays an important role in the development of the business. I am talking about how business analytics is used in the automobile industry. Big data is helping the automotive industry advance further in a number of ways- by enhancing vehicle safety with cognitive IoT, decreasing repair costs or increasing up time with predictive analysis and much more. areas where the automotive industry is using big data analytics to get to the next level: Predictive Analysis for Customer Satisfaction and Building Smart Cities, Optimisation Using Prescriptive Analytics.
